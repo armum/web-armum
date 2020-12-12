@@ -11,13 +11,13 @@ I would appreciate any donation to cover the servers costs [Paypal](https://www.
 user=root
 domain-needed
 cache-size=64000
-hostsdir=/root
+hostsdir=/etc/dnsmasq
 interface=eth0
 ```
 
 ## Crontab
 ```
-2 * * * * curl -o /root/hosts https://someonewhocares.org/hosts/zero/hosts
+2 * * * * curl -o /etc/dnsmasq/hosts https://someonewhocares.org/hosts/zero/hosts
 ```
 
 Thanks to [Dan Pollock](https://someonewhocares.org/) for the maintenance of the hosts file.
