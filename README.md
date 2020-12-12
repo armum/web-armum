@@ -18,4 +18,4 @@ interface=eth0
 2 * * * * curl -o /root/hosts https://someonewhocares.org/hosts/zero/hosts
 ```
 
-Thanks to Dan Pollock for the maintenance of the hosts file.
+Thanks to [Dan Pollock](https://someonewhocares.org/) for the maintenance of the hosts file.
