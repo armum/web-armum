@@ -2,7 +2,7 @@
 Public DNS service that blocks malicious websites
 
 ## About
-After using the hosts file for a while in several computers, I decided to create a public service with it so that anyone can easily use it with any router/computer/smartphone.
+After using the [hosts file](https://someonewhocares.org/hosts/zero/hosts) for a while in several computers, I decided to create a public service with it so that anyone can easily use it with any router/computer/smartphone.
 
 ## Current DNS servers
 
