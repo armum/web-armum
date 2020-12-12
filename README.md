@@ -7,14 +7,12 @@ After using the hosts file for a while in several computers, I decided to create
 ## Usage
 
 DNS Central America
-IPv4 45.33.13.111
-IPv6 2600:3c00::f03c:91ff:fe1f:f74c
+IPv4 `45.33.13.111`
+IPv6 `2600:3c00::f03c:91ff:fe1f:f74c`
 
 DNS Central Europe
-IPv4 172.105.77.127
-IPv6 2a01:7e01::f03c:92ff:fe42:70c5
-
-Any donation to cover the servers costs is appreciated [Paypal](https://www.paypal.com/paypalme/mencargo/USD)
+IPv4 `172.105.77.127`
+IPv6 `2a01:7e01::f03c:92ff:fe42:70c5`
 
 ## Dnsmasq
 ```
@@ -29,5 +27,7 @@ interface=eth0
 ```
 2 * * * * curl -o /root/dns/hosts https://someonewhocares.org/hosts/zero/hosts
 ```
+
+Any donation to cover the servers costs is appreciated [Paypal](https://www.paypal.com/paypalme/mencargo/USD)
 
 Thanks to [Dan Pollock](https://someonewhocares.org/) for the maintenance of the hosts file.
