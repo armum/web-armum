@@ -13,7 +13,6 @@ IPv4 `45.33.13.111`
 IPv6 `2600:3c00::f03c:91ff:fe1f:f74c`
 
 
-
 **DNS Europe**
 
 IPv4 `172.105.77.127`
@@ -25,20 +24,6 @@ Example in Linux IPv4 for Europe `/etc/resolv.conf`:
 ```
 nameserver 172.105.77.127
 nameserver 45.33.13.111
-```
-
-## Dnsmasq
-```
-user=root
-domain-needed
-cache-size=64000
-hostsdir=/root/dns
-interface=eth0
-```
-
-## Crontab
-```
-2 * * * * curl -o /root/dns/hosts https://someonewhocares.org/hosts/zero/hosts
 ```
 
 Any donation to cover the servers costs is appreciated [Paypal](https://www.paypal.com/paypalme/mencargo/USD)
