@@ -6,13 +6,26 @@ After using the hosts file for a while in several computers, I decided to create
 
 ## Usage
 
-DNS Central America
+**DNS America**
+
 IPv4 `45.33.13.111`
+
 IPv6 `2600:3c00::f03c:91ff:fe1f:f74c`
 
-DNS Central Europe
+
+
+**DNS Europe**
+
 IPv4 `172.105.77.127`
+
 IPv6 `2a01:7e01::f03c:92ff:fe42:70c5`
+
+
+Example in Linux IPv4 for Europe `/etc/resolv.conf`:
+```
+nameserver 172.105.77.127
+nameserver 45.33.13.111
+```
 
 ## Dnsmasq
 ```
