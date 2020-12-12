@@ -8,16 +8,16 @@ After using the hosts file for a while in several computers, I decided to create
 
 **America**
 
-IPv4 `45.33.13.111`
+IPv4: `45.33.13.111`
 
-IPv6 `2600:3c00::f03c:91ff:fe1f:f74c`
+IPv6: `2600:3c00::f03c:91ff:fe1f:f74c`
 
 
 **Europe**
 
-IPv4 `172.105.77.127`
+IPv4: `172.105.77.127`
 
-IPv6 `2a01:7e01::f03c:92ff:fe42:70c5`
+IPv6: `2a01:7e01::f03c:92ff:fe42:70c5`
 
 ## Usage
 
