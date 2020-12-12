@@ -4,6 +4,8 @@ Public DNS service that blocks malicious websites
 ## About
 After using the hosts file for a while in several computers, I decided to create a public service with it so that anyone can easily use it with any router/computer/smartphone.
 
+I would appreciate any donation to cover the servers costs [Paypal](https://www.paypal.com/paypalme/mencargo/USD)
+
 ## Dnsmasq
 ```
 user=root
