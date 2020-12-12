@@ -1,14 +1,18 @@
-# web
-Static website
+# Armum
+Public DNS service that blocks malicious websites
 
-
+## DNSmasq
 ```
-no-poll
-domain-needed
-bind-interfaces
 user=root
-interface=lo
-cache-size=2000
-min-cache-ttl=3600
-addn-hosts=/etc/dnsmasq/hosts
+domain-needed
+cache-size=64000
+hostsdir=/root
+interface=eth0
 ```
+
+## Crontab
+```
+2 * * * * curl -o /root/hosts https://someonewhocares.org/hosts/zero/hosts
+```
+
+Thanks to Dan Pollock for his work with the hosts file.
