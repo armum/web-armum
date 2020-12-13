@@ -1,4 +1,4 @@
-# ![alt text](https://armum.net/img/armum.png "Armum") Armum
+# ![armum](https://armum.net/img/armum.png "Armum")
 Public DNS service that blocks malicious websites
 
 ## About
