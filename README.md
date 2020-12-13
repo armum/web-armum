@@ -21,14 +21,26 @@ IPv6: `2a01:7e01::f03c:92ff:fe42:70c5`
 
 ## Usage
 
-The setup varies depending on the Operative System and network configuration.
-Basically list the servers in the order you want to use them.
+Basically list the servers in the network configuration of your operative system, examples:
 
-Example in Linux IPv4 for Europe `/etc/resolv.conf`:
+Linux `/etc/resolv.conf`:
 ```
-nameserver 172.105.77.127
 nameserver 45.33.13.111
+nameserver 172.105.77.127
 ```
+
+Linux with resolvconf `/etc/resolvconf.conf`:
+```
+name_servers="45.33.13.111 172.105.77.127"
+```
+
+Windows:
+Control Panel > Network and Internet > Network and Sharing Center > Change adapter settings
+
+Right-click the connection > Properties > Networking
+
+Internet Protocol Version 4 (TCP/IPv4) or Internet Protocol Version 6 (TCP/IPv6) > Properties > Advanced > DNS
+
 ## Contribute
 
 Special thanks to [Dan Pollock](https://someonewhocares.org/) for the maintenance of the hosts file.
