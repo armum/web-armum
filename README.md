@@ -31,8 +31,10 @@ nameserver 45.33.13.111
 ```
 ## Contribute
 
+Special thanks to [Dan Pollock](https://someonewhocares.org/) for the maintenance of the hosts file.
+
 Any donation to cover the servers costs is appreciated [Paypal](https://www.paypal.com/paypalme/mencargo/USD)
 
 It would be possible to setup additional DNS servers in specific regions with recurrent donations.
 
-Special thanks to [Dan Pollock](https://someonewhocares.org/) for the maintenance of the hosts file.
+If you would like to create your own server checkout `server.md`, for a local service see `local.md`.
