@@ -1,5 +1,5 @@
 ## Setup
-Very basic server setup guide for anyone that wants to have their own
+Very basic server setup guide for anyone that prefers to have their own, although I would spawn a server in a specific region with a recurrent donation.
 
 ## Dnsmasq
 ```
