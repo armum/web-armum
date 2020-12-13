@@ -5,7 +5,7 @@ Very basic server setup guide for anyone that wants to have their own
 ```
 user=root
 domain-needed
-cache-size=64000
+cache-size=6400
 hostsdir=/root/dns
 interface=eth0
 ```
