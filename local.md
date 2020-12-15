@@ -6,7 +6,7 @@ Very basic server setup guide for anyone that wants to install it locally
 no-hosts
 no-resolv
 user=root
-server=8.8.4.4
+server=8.8.8.8
 server=1.1.1.1
 server=9.9.9.9
 cache-size=6400
