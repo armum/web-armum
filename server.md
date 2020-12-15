@@ -14,5 +14,5 @@ interface=eth0
 
 ## Crontab
 ```
-2 * * * * curl -o /root/dns/hosts https://someonewhocares.org/hosts/zero/hosts
+2 * * * * /usr/bin/curl -o /root/dns/hosts https://someonewhocares.org/hosts/zero/hosts
 ```
