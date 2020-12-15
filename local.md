@@ -16,5 +16,5 @@ listen-address=127.0.0.1
 
 ## Crontab
 ```
-2 * * * * curl -o /root/dns/hosts https://someonewhocares.org/hosts/zero/hosts
+@reboot /usr/bin/curl -o /root/dns/hosts https://someonewhocares.org/hosts/zero/hosts
 ```
