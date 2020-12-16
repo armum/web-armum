@@ -1,5 +1,7 @@
-# ![armum](https://armum.net/img/armum-small.png "Armum")
-Public DNS service for privacy, an easy and effective way to protect your divices from most ads, trackers, web traps and other annoying exploits.
+![armum](https://armum.net/img/armum-small.png "Armum")
+## Armum__
+A public DNS service for privacy.
+> An easy and effective way to protect you from many types of spyware, reduces bandwidth use, blocks certain pop-up traps, prevents user tracking by way of "web bugs" embedded in spam, provides partial protection from certain web-based exploits and blocks most advertising you would otherwise be subjected to on the internet.
 
 ## About
 After using the [hosts file](https://someonewhocares.org/hosts/zero/hosts) for a while, I created a public service so that anyone can easily use it with any device (router/computer/smartphone).
