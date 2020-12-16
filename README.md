@@ -14,6 +14,8 @@ After using the [hosts file](https://someonewhocares.org/hosts/zero/hosts) for a
 |__IPv4__|__`45.33.13.111`__|__`172.105.77.127`__|
 |__IPv6__|__`2600:3c00::f03c:91ff:fe1f:f74c`__|__`2a01:7e01::f03c:92ff:fe42:70c5`__|
 
+`dns.armum.net` points to _both_ servers.
+
 ## Contribute
 
 Special thanks to [Dan Pollock](https://someonewhocares.org/) for the maintenance of the hosts file.
