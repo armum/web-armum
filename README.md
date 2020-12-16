@@ -6,10 +6,10 @@ After using the [hosts file](https://someonewhocares.org/hosts/zero/hosts) for a
 
 ## Current DNS servers
 
-|**America**|**Europe**|
-|-----------|----------|
-|IPv4: `45.33.13.111`|IPv4: `172.105.77.127`|
-|IPv6: `2600:3c00::f03c:91ff:fe1f:f74c`|IPv6: `2a01:7e01::f03c:92ff:fe42:70c5`|
+||**America**|**Europe**|
+||-----------|----------|
+|IPv4|`45.33.13.111`|`172.105.77.127`|
+|IPv6|`2600:3c00::f03c:91ff:fe1f:f74c`|`2a01:7e01::f03c:92ff:fe42:70c5`|
 
 ## Contribute
 
