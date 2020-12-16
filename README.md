@@ -19,4 +19,4 @@ Any donation to cover the servers costs is appreciated [Paypal](https://www.payp
 
 It would be possible to setup additional DNS servers in specific regions with recurrent donations.
 
-If you would like to create your own server checkout `server.md`, for a local service see `local.md`.
+Checkout the following guides if you would like to create your own [server](https://github.com/armum/dns/blob/master/server.md) or [local](https://github.com/armum/dns/blob/master/local.md) service.
