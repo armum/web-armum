@@ -2,7 +2,7 @@
 ## Armum
 A public DNS service for privacy.
 
-An easy and effective way to protect you from many types of spyware, block certain pop-up traps, prevent user tracking, block most advertising and reduce bandwidth usage.
+An easy and effective way to protect you from many types of spyware, block most advertising, certain pop-up traps, prevent user tracking and reduce bandwidth usage.
 
 ## About
 After using the [hosts file](https://someonewhocares.org/hosts/zero/hosts) for a while, I created a public service so that anyone can easily use it with any device (router/computer/smartphone).
