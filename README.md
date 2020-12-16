@@ -2,7 +2,7 @@
 Public DNS service that blocks ads, trackers, spyware, hijack, malware, phishing and more.
 
 ## About
-After using the [hosts file](https://someonewhocares.org/hosts/zero/hosts) for a while, I created a public service so that anyone can easily use it with any router/computer/smartphone.
+After using the [hosts file](https://someonewhocares.org/hosts/zero/hosts) for a while, I created a public service so that anyone can easily use it with any device (router/computer/smartphone).
 
 ## DNS servers
 
