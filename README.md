@@ -1,5 +1,5 @@
 # ![armum](https://armum.net/img/armum-small.png "Armum")
-Public DNS service that blocks ads, trackers, spyware, hijack, malware, phishing and more.
+Public DNS service for privacy, an easy and effective way to protect your divices from most ads, trackers, web traps and other annoying exploits.
 
 ## About
 After using the [hosts file](https://someonewhocares.org/hosts/zero/hosts) for a while, I created a public service so that anyone can easily use it with any device (router/computer/smartphone).
