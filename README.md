@@ -32,6 +32,4 @@ Checkout the following guides if you would like to create your own [server](http
 
 ## Contribute
 
-Donations: [Paypal](https://www.paypal.com/paypalme/mencargo/USD)
-
-Chat: [Telegram](https://t.me/mencargo)
+Donate: [Paypal](https://www.paypal.com/paypalme/mencargo/USD) - Contact: [Telegram](https://t.me/mencargo)
