@@ -1,11 +1,21 @@
 ![armum](https://armum.net/img/armum-small.png "Armum")
-## Armum
-A public DNS service for privacy.
+## Armum DNS
+A public DNS service for privacy and protection.
 
-An easy and effective way to protect you from many types of spyware, block most advertising, certain pop-up traps, prevent user tracking and reduce bandwidth usage.
+An easy and effective way to protect you from many types of:
+spyware
+advertising
+fake news
+pop-ups
+tracking
+porn
+
+It also has a nice side effect of speeding most of your internet browsing, showing cleaner sites and reducing bandwidth usage.
+However, it also breaks some advertising links (Google paid results for example) and I recommend using alternate sites/services, like [DuckDuckGo](https://duckduckgo.com/).
 
 ## About
-After using the [hosts file](https://someonewhocares.org/hosts/zero/hosts) for a while, I created a public service so that anyone can easily use it with any device (router/computer/smartphone).
+There are several ways to create your local DNS blocker, like PiHole, but it needs time, config, maintenance and local devices are more succeptible to all kinds of service interruptions.
+That's why I created a public service so that anyone can easily use it with any device (router/computer/smartphone) using an unified [hosts list](https://github.com/StevenBlack/hosts).
 
 ## DNS servers
 
@@ -17,8 +27,6 @@ After using the [hosts file](https://someonewhocares.org/hosts/zero/hosts) for a
 `dns.armum.net` points to _both_ servers.
 
 ## Contribute
-
-Special thanks to [Dan Pollock](https://someonewhocares.org/) for the maintenance of the hosts file.
 
 Any donation to cover the servers costs is appreciated [Paypal](https://www.paypal.com/paypalme/mencargo/USD)
 
