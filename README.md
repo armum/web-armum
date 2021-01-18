@@ -4,11 +4,13 @@ A public DNS service for privacy and protection.
 
 An easy and effective way to protect you from many types of:
 ```
+adware
 spyware
-advertising
+malware
 fake news
-pop-ups
+gambling
 tracking
+pop-ups
 porn
 ```
 
