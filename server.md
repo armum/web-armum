@@ -14,5 +14,5 @@ interface=eth0
 
 ## Crontab
 ```
-2 * * * * /usr/bin/curl -o /root/dns/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
+2 * * * * /usr/bin/curl -o /root/dns/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 ```
