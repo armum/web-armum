@@ -3,18 +3,20 @@
 A public DNS service for privacy and protection.
 
 An easy and effective way to protect you from many types of:
+```
 spyware
 advertising
 fake news
 pop-ups
 tracking
 porn
+```
 
 It also has a nice side effect of speeding most of your internet browsing, showing cleaner sites and reducing bandwidth usage.
 However, it also breaks some advertising links (Google paid results for example) and I recommend using alternate sites/services, like [DuckDuckGo](https://duckduckgo.com/).
 
 ## About
-There are several ways to create your local DNS blocker, like PiHole, but it needs time, config, maintenance and local devices are more succeptible to all kinds of service interruptions.
+There are several ways to create your local DNS blocker, but it needs time, configuration, maintenance and local devices are more succeptible to all kinds of service interruptions.
 That's why I created a public service so that anyone can easily use it with any device (router/computer/smartphone) using an unified [hosts list](https://github.com/StevenBlack/hosts).
 
 ## DNS servers
