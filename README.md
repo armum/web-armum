@@ -29,7 +29,7 @@ However, it also breaks some advertising links (Google paid results) and I recom
 
 There are several ways to create your local DNS blocker, but it needs time, configuration, maintenance and local devices are more succeptible to all kinds of service interruptions. So even if you have one, you may find this convenient for other devices or as a backup.
 
-That's why I created a public service so that anyone can easily use it with any device (router/computer/smartphone) using an unified [hosts list](https://github.com/StevenBlack/hosts).
+That's why I created a public service so that anyone can easily use it with any device (router/computer/smartphone).
 
 Checkout the following guides if you would like to create your own [server](https://github.com/armum/dns/blob/master/server.md) or [local](https://github.com/armum/dns/blob/master/local.md) service. You can also install some packaged services with admin or statistics if you prefer something fancy, like PiHole, that under the hood relies on the same stuff, but you can personalize it.
 
