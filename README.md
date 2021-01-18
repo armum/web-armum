@@ -16,11 +16,7 @@ An easy and effective way to protect you from many types of:
 adware
 spyware
 malware
-fake news
-gambling
-tracking
-pop-ups
-porn
+fakenews
 ```
 
 It also has a nice side effect of speeding most of your internet browsing, showing cleaner sites and reducing bandwidth usage.
