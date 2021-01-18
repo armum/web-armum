@@ -23,9 +23,9 @@ Checkout the following guides if you would like to create your own [server](http
 
 ## Details
 
-`dns.armum.net` points to _both_ servers.
-`dns1.armum.net` points to `45.33.13.111`.
-`dns2.armum.net` points to `172.105.77.127`.
+> `dns.armum.net` points to _both_ servers.
+> `dns1.armum.net` points to `45.33.13.111`.
+> `dns2.armum.net` points to `172.105.77.127`.
 
 All common DNS clients will querry the name servers in order and will use the next as fallback if the current does not respond, so list the one closest to you first.
 
