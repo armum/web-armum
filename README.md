@@ -19,7 +19,7 @@ There are several ways to create a local DNS filter, but it needs time, configur
 
 That's why I created a public service so that anyone can easily use it with any device (router/computer/smartphone).
 
-Checkout the following guides if you would like to create your own [server](https://github.com/armum/dns/blob/master/server.md) or [local](https://github.com/armum/dns/blob/master/local.md) service. There are also some projects with administration tools or statistics if you prefer something fancy, like PiHole, that under the hood relies on the same stuff and are more resource hungry.
+Checkout the following guides if you would like to create your own [server](https://github.com/armum/dns/blob/master/server.md) or [local](https://github.com/armum/dns/blob/master/local.md) service. There are also some projects with administration tools or statistics if you prefer something fancy, like PiHole, that under the hood rely on the same stuff and are more resource hungry.
 
 ## Details
 
