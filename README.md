@@ -27,7 +27,8 @@ Checkout the following guides if you would like to create your own [server](http
 - `dns1.armum.net` points to __america__.
 - `dns2.armum.net` points to __europe__.
 
-All common DNS clients will querry the name servers in order and will use the next as fallback if the current does not respond, so list the one closest to you first.
+List the one closest to you first.
+All common DNS clients will querry the name servers in order and will use the next as fallback if the current does not respond.
 
 The servers don't keep logs and reload their hosts list daily.
 
