@@ -9,7 +9,7 @@
 ## About
 This is a free public DNS service for privacy, security and peace of mind.
 
-An easy and effective way to protect you from many types of adware, malware, ransomeware, spyware and tracking.
+An easy and effective way to protect you from many types of adware, malware, ransomware, spyware and tracking.
 
 It also blocks websites to help our mental health in general: porn, gambling, fakenews.
 
