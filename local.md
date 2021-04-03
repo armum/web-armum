@@ -16,7 +16,7 @@ listen-address=127.0.0.1
 
 ## Crontab
 ```
-@reboot /usr/bin/curl -o /root/dns/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
+@reboot /usr/bin/curl -o /root/dns/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 ```
 
 You may want to choose a different [hosts file](https://github.com/StevenBlack/hosts).
