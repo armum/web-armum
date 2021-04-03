@@ -20,7 +20,7 @@ server=...
 
 ## Crontab
 ```
-2 * * * * /usr/bin/wget -O- https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts | awk '$1 == "0.0.0.0" { print "::1 "$2"\n0.0.0.0 "$2""}' > /root/dns/hosts
+2 * * * * /usr/bin/wget -O- https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts | awk '$1 == "0.0.0.0" { print "::1 "$2"\n0.0.0.0 "$2""}' > /root/dns/hosts
 ```
 
 You may want to choose a different [hosts file](https://github.com/StevenBlack/hosts).
