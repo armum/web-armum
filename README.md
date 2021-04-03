@@ -11,8 +11,6 @@ This is a free public DNS service for privacy, security and peace of mind.
 
 An easy and effective way to protect you from many types of adware, malware, ransomware, spyware and tracking.
 
-It also blocks websites to help our mental health in general: porn, gambling, fakenews.
-
 As a side effect, it helps speed up web browsing, declutter sites and reduce bandwidth usage.
 
 However, it also breaks some links that you maybe used to, like Google ads in search results. You could simply get used to it (skipping them) but I would recommend using alternate sites/services, like [DuckDuckGo](https://duckduckgo.com/) for this example.
